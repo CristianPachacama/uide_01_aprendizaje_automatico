@@ -18,7 +18,7 @@ Notebook (ipynb). Esta modalidad interactiva permite integrar el código en Pyth
 
 ## Prueba práctica
 
-Elabore un Notebook estructurado como un diagnóstico preliminar y motor predictivo para María Fernanda y el comité directivo de Crédito Andino Digital. Para este ejercicio, utilice un conjunto de datos público de riesgo crediticio (dataset).
+Elabore un Notebook estructurado como un diagnóstico preliminar y motor predictivo para María Fernanda y el comité directivo de Crédito Andino Digital. Para este ejercicio, utilice un conjunto de datos público de riesgo crediticio (dataset) [https://www.kaggle.com/datasets/kaggleguru02/loan-prediction-dataset](https://www.kaggle.com/datasets/kaggleguru02/loan-prediction-dataset).
 
 El desarrollo debe contener las siguientes fases:
 
